@@ -4,7 +4,7 @@
   const content={
   "en": {
     "title": "Privacy policy",
-    "updated": "Updated: 22 October 2026",
+    "updated": "Updated: 23 October 2026",
     "language": "Language",
     "operator": "Developer and data controller: Viktor Palej, Lithuania. Privacy and support contact:",
     "sections": [
@@ -26,7 +26,7 @@
       {
         "id": "sharing",
         "title": "Transfers and third-party services",
-        "text": "Program export and sharing happen only when you choose them. The iPhone and iPad app contains no advertising or analytics SDK and does not sell your data. Capacitor provides the iOS runtime; it does not send your recordings to us. Opening an external service is governed by that service's privacy policy. When you use TestFlight, Apple provides us with crash logs, usage statistics and feedback, which may be linked to your tester identity. We use these details to diagnose issues, improve EgoMetra and handle feedback, and retain them only as long as needed for testing, support or legal obligations. Apple operates TestFlight under its own terms and privacy policy."
+        "text": "Program export and sharing happen only when you choose them. The iPhone and iPad app contains no advertising or analytics SDK and does not sell your data. Capacitor provides the iOS runtime; it does not send your recordings to us. Opening an external service is governed by that service's privacy policy. When you use TestFlight, Apple provides us with crash logs, usage statistics and feedback, which may be linked to your tester identity. We use these details to diagnose issues, improve EgoMetra and handle feedback, and retain them only as long as needed for testing, support or legal obligations. Apple operates TestFlight under its own terms and privacy policy. Pro purchases are processed by Apple through the App Store. EgoMetra checks Apple-verified purchase entitlement on your device to unlock features and restore purchases. We do not receive your payment card details, Apple Account password or signed transaction data from the app. Apple separately processes payment and purchase information under its own terms and privacy policy."
       },
       {
         "id": "support",
@@ -62,7 +62,7 @@
   },
   "lt": {
     "title": "Privatumo politika",
-    "updated": "Atnaujinta: 2026 m. spalio 22 d.",
+    "updated": "Atnaujinta: 2026 m. spalio 23 d.",
     "language": "Kalba",
     "operator": "Kūrėjas ir duomenų valdytojas: Viktor Palej, Lietuva. Kontaktas privatumo ir pagalbos klausimais:",
     "sections": [
@@ -84,7 +84,7 @@
       {
         "id": "sharing",
         "title": "Perkėlimas ir trečiųjų šalių paslaugos",
-        "text": "Programų eksportas ir bendrinimas vyksta tik jums pasirinkus. iPhone ir iPad programėlėje nėra reklamos ar naudojimo analitikos SDK, jūsų duomenys neparduodami. Capacitor suteikia iOS vykdymo aplinką ir nesiunčia jūsų įrašų mums. Atidarytoms išorinėms paslaugoms taikoma jų privatumo politika. Naudojant TestFlight, Apple mums pateikia strigčių žurnalus, naudojimo statistiką ir atsiliepimus, kurie gali būti susieti su jūsų, kaip testuotojo, tapatybe. Šiuos duomenis naudojame klaidoms nustatyti, EgoMetra tobulinti ir atsiliepimams nagrinėti; saugome tik tiek, kiek reikia bandymams, pagalbai ar teisinėms prievolėms. Apple TestFlight paslaugą teikia pagal savo sąlygas ir privatumo politiką."
+        "text": "Programų eksportas ir bendrinimas vyksta tik jums pasirinkus. iPhone ir iPad programėlėje nėra reklamos ar naudojimo analitikos SDK, jūsų duomenys neparduodami. Capacitor suteikia iOS vykdymo aplinką ir nesiunčia jūsų įrašų mums. Atidarytoms išorinėms paslaugoms taikoma jų privatumo politika. Naudojant TestFlight, Apple mums pateikia strigčių žurnalus, naudojimo statistiką ir atsiliepimus, kurie gali būti susieti su jūsų, kaip testuotojo, tapatybe. Šiuos duomenis naudojame klaidoms nustatyti, EgoMetra tobulinti ir atsiliepimams nagrinėti; saugome tik tiek, kiek reikia bandymams, pagalbai ar teisinėms prievolėms. Apple TestFlight paslaugą teikia pagal savo sąlygas ir privatumo politiką. Pro pirkimus per App Store apdoroja Apple. EgoMetra įrenginyje tikrina Apple patvirtintą teisę naudotis pirkiniu, kad atrakintų funkcijas ir atkurtų pirkinius. Iš programėlės negauname jūsų mokėjimo kortelės duomenų, Apple paskyros slaptažodžio ar pasirašytų sandorių duomenų. Apple mokėjimų ir pirkimų informaciją atskirai tvarko pagal savo sąlygas ir privatumo politiką."
       },
       {
         "id": "support",
@@ -120,7 +120,7 @@
   },
   "ru": {
     "title": "Политика конфиденциальности",
-    "updated": "Обновлено: 22 октября 2026 г.",
+    "updated": "Обновлено: 23 октября 2026 г.",
     "language": "Язык",
     "operator": "Разработчик и ответственный за обработку данных: Viktor Palej, Литва. Контакт по вопросам конфиденциальности и поддержки:",
     "sections": [
@@ -142,7 +142,7 @@
       {
         "id": "sharing",
         "title": "Передача и сторонние сервисы",
-        "text": "Экспорт программ и обмен ими выполняются только по вашему выбору. В приложении для iPhone и iPad нет рекламных SDK или SDK аналитики использования; ваши данные не продаются. Capacitor предоставляет среду выполнения iOS и не отправляет ваши записи нам. При открытии внешних сервисов действует их политика конфиденциальности. При использовании TestFlight Apple передаёт нам журналы сбоев, статистику использования и отзывы, которые могут быть связаны с вашей личностью тестировщика. Мы используем эти сведения для поиска ошибок, улучшения EgoMetra и обработки отзывов и храним их лишь столько, сколько требуется для тестирования, поддержки или выполнения юридических обязательств. Apple предоставляет TestFlight согласно своим условиям и политике конфиденциальности."
+        "text": "Экспорт программ и обмен ими выполняются только по вашему выбору. В приложении для iPhone и iPad нет рекламных SDK или SDK аналитики использования; ваши данные не продаются. Capacitor предоставляет среду выполнения iOS и не отправляет ваши записи нам. При открытии внешних сервисов действует их политика конфиденциальности. При использовании TestFlight Apple передаёт нам журналы сбоев, статистику использования и отзывы, которые могут быть связаны с вашей личностью тестировщика. Мы используем эти сведения для поиска ошибок, улучшения EgoMetra и обработки отзывов и храним их лишь столько, сколько требуется для тестирования, поддержки или выполнения юридических обязательств. Apple предоставляет TestFlight согласно своим условиям и политике конфиденциальности. Покупки Pro обрабатывает Apple через App Store. EgoMetra проверяет на устройстве подтверждённое Apple право на покупку для открытия функций и восстановления покупок. Приложение не передаёт нам данные платёжной карты, пароль учётной записи Apple или подписанные данные транзакций. Apple отдельно обрабатывает сведения о платежах и покупках согласно своим условиям и политике конфиденциальности."
       },
       {
         "id": "support",
@@ -178,7 +178,7 @@
   },
   "uk": {
     "title": "Політика конфіденційності",
-    "updated": "Оновлено: 22 жовтня 2026 р.",
+    "updated": "Оновлено: 23 жовтня 2026 р.",
     "language": "Мова",
     "operator": "Розробник і відповідальний за обробку даних: Viktor Palej, Литва. Контакт із питань конфіденційності та підтримки:",
     "sections": [
@@ -200,7 +200,7 @@
       {
         "id": "sharing",
         "title": "Передавання та сторонні сервіси",
-        "text": "Експорт програм і поширення відбуваються лише за вашим вибором. Програма для iPhone та iPad не містить рекламних SDK або SDK аналітики використання та не продає ваші дані. Capacitor надає середовище виконання iOS і не надсилає ваші записи нам. Для відкритих зовнішніх сервісів діє їхня політика конфіденційності. Під час використання TestFlight Apple надає нам журнали збоїв, статистику використання та відгуки, які можуть бути пов’язані з вашою особою тестувальника. Ми використовуємо ці відомості для пошуку помилок, удосконалення EgoMetra та опрацювання відгуків і зберігаємо їх лише стільки, скільки потрібно для тестування, підтримки або виконання юридичних зобов’язань. Apple надає TestFlight відповідно до своїх умов та політики конфіденційності."
+        "text": "Експорт програм і поширення відбуваються лише за вашим вибором. Програма для iPhone та iPad не містить рекламних SDK або SDK аналітики використання та не продає ваші дані. Capacitor надає середовище виконання iOS і не надсилає ваші записи нам. Для відкритих зовнішніх сервісів діє їхня політика конфіденційності. Під час використання TestFlight Apple надає нам журнали збоїв, статистику використання та відгуки, які можуть бути пов’язані з вашою особою тестувальника. Ми використовуємо ці відомості для пошуку помилок, удосконалення EgoMetra та опрацювання відгуків і зберігаємо їх лише стільки, скільки потрібно для тестування, підтримки або виконання юридичних зобов’язань. Apple надає TestFlight відповідно до своїх умов та політики конфіденційності. Покупки Pro обробляє Apple через App Store. EgoMetra перевіряє на пристрої підтверджене Apple право на покупку для відкриття функцій і відновлення покупок. Застосунок не передає нам дані платіжної картки, пароль облікового запису Apple або підписані дані транзакцій. Apple окремо обробляє відомості про платежі та покупки згідно зі своїми умовами й політикою конфіденційності."
       },
       {
         "id": "support",
@@ -236,7 +236,7 @@
   },
   "pt": {
     "title": "Política de privacidade",
-    "updated": "Atualizado: 22 de outubro de 2026",
+    "updated": "Atualizado: 23 de outubro de 2026",
     "language": "Idioma",
     "operator": "Programador e responsável pelo tratamento: Viktor Palej, Lituânia. Contacto para privacidade e apoio:",
     "sections": [
@@ -258,7 +258,7 @@
       {
         "id": "sharing",
         "title": "Transferências e serviços externos",
-        "text": "A exportação e a partilha de programas só acontecem por sua escolha. A app para iPhone e iPad não contém SDK de publicidade ou análise de utilização e não vende os seus dados. O Capacitor fornece o ambiente de execução iOS e não nos envia as suas gravações. Ao abrir serviços externos, aplica-se a respetiva política de privacidade. Ao utilizar o TestFlight, a Apple fornece-nos registos de falhas, estatísticas de utilização e comentários, que podem ser associados à sua identidade de participante. Usamos estes dados para diagnosticar problemas, melhorar o EgoMetra e tratar comentários, conservando-os apenas enquanto forem necessários para testes, apoio ou obrigações legais. A Apple gere o TestFlight segundo os seus próprios termos e política de privacidade."
+        "text": "A exportação e a partilha de programas só acontecem por sua escolha. A app para iPhone e iPad não contém SDK de publicidade ou análise de utilização e não vende os seus dados. O Capacitor fornece o ambiente de execução iOS e não nos envia as suas gravações. Ao abrir serviços externos, aplica-se a respetiva política de privacidade. Ao utilizar o TestFlight, a Apple fornece-nos registos de falhas, estatísticas de utilização e comentários, que podem ser associados à sua identidade de participante. Usamos estes dados para diagnosticar problemas, melhorar o EgoMetra e tratar comentários, conservando-os apenas enquanto forem necessários para testes, apoio ou obrigações legais. A Apple gere o TestFlight segundo os seus próprios termos e política de privacidade. As compras Pro são processadas pela Apple através da App Store. A EgoMetra verifica no dispositivo os direitos de compra confirmados pela Apple para desbloquear funcionalidades e restaurar compras. A aplicação não nos envia dados do cartão de pagamento, a palavra-passe da conta Apple nem dados de transações assinadas. A Apple trata separadamente as informações de pagamento e compra segundo os seus próprios termos e política de privacidade."
       },
       {
         "id": "support",
@@ -294,7 +294,7 @@
   },
   "de": {
     "title": "Datenschutzerklärung",
-    "updated": "Aktualisiert: 22. Oktober 2026",
+    "updated": "Aktualisiert: 23. Oktober 2026",
     "language": "Sprache",
     "operator": "Entwickler und Verantwortlicher: Viktor Palej, Litauen. Kontakt für Datenschutz und Support:",
     "sections": [
@@ -316,7 +316,7 @@
       {
         "id": "sharing",
         "title": "Übertragung und externe Dienste",
-        "text": "Programme werden nur auf Ihre Anweisung exportiert oder geteilt. Die App für iPhone und iPad enthält keine Werbe- oder Nutzungsanalyse-SDKs und verkauft Ihre Daten nicht. Capacitor stellt die iOS-Laufzeit bereit und sendet Ihre Aufnahmen nicht an uns. Beim Öffnen externer Dienste gilt deren Datenschutzerklärung. Bei der Nutzung von TestFlight stellt Apple uns Absturzprotokolle, Nutzungsstatistiken und Feedback bereit, die mit Ihrer Identität als Tester verknüpft sein können. Wir nutzen diese Angaben zur Fehlerdiagnose, Verbesserung von EgoMetra und Bearbeitung von Feedback und bewahren sie nur so lange auf, wie es für Tests, Support oder gesetzliche Pflichten erforderlich ist. Apple betreibt TestFlight nach seinen eigenen Bedingungen und Datenschutzbestimmungen."
+        "text": "Programme werden nur auf Ihre Anweisung exportiert oder geteilt. Die App für iPhone und iPad enthält keine Werbe- oder Nutzungsanalyse-SDKs und verkauft Ihre Daten nicht. Capacitor stellt die iOS-Laufzeit bereit und sendet Ihre Aufnahmen nicht an uns. Beim Öffnen externer Dienste gilt deren Datenschutzerklärung. Bei der Nutzung von TestFlight stellt Apple uns Absturzprotokolle, Nutzungsstatistiken und Feedback bereit, die mit Ihrer Identität als Tester verknüpft sein können. Wir nutzen diese Angaben zur Fehlerdiagnose, Verbesserung von EgoMetra und Bearbeitung von Feedback und bewahren sie nur so lange auf, wie es für Tests, Support oder gesetzliche Pflichten erforderlich ist. Apple betreibt TestFlight nach seinen eigenen Bedingungen und Datenschutzbestimmungen. Pro-Käufe werden von Apple über den App Store abgewickelt. EgoMetra prüft die von Apple bestätigte Kaufberechtigung auf deinem Gerät, um Funktionen freizuschalten und Käufe wiederherzustellen. Wir erhalten von der App keine Zahlungskartendaten, Apple Account-Passwörter oder signierten Transaktionsdaten. Apple verarbeitet Zahlungs- und Kaufinformationen separat nach eigenen Bedingungen und Datenschutzregeln."
       },
       {
         "id": "support",
@@ -352,7 +352,7 @@
   },
   "fr": {
     "title": "Politique de confidentialité",
-    "updated": "Mise à jour : 22 octobre 2026",
+    "updated": "Mise à jour : 23 octobre 2026",
     "language": "Langue",
     "operator": "Développeur et responsable du traitement : Viktor Palej, Lituanie. Contact pour la confidentialité et l’assistance :",
     "sections": [
@@ -374,7 +374,7 @@
       {
         "id": "sharing",
         "title": "Transferts et services tiers",
-        "text": "L’exportation et le partage des programmes ont lieu uniquement à votre demande. L’app pour iPhone et iPad ne contient aucun SDK publicitaire ou d’analyse d’utilisation et ne vend pas vos données. Capacitor fournit l’environnement d’exécution iOS et ne nous transmet pas vos enregistrements. Les services externes ouverts sont régis par leur propre politique de confidentialité. Lorsque vous utilisez TestFlight, Apple nous transmet des rapports de plantage, des statistiques d’utilisation et vos commentaires, qui peuvent être liés à votre identité de testeur. Nous utilisons ces informations pour diagnostiquer les problèmes, améliorer EgoMetra et traiter les commentaires, et les conservons uniquement le temps nécessaire aux tests, à l’assistance ou aux obligations légales. Apple exploite TestFlight selon ses propres conditions et sa politique de confidentialité."
+        "text": "L’exportation et le partage des programmes ont lieu uniquement à votre demande. L’app pour iPhone et iPad ne contient aucun SDK publicitaire ou d’analyse d’utilisation et ne vend pas vos données. Capacitor fournit l’environnement d’exécution iOS et ne nous transmet pas vos enregistrements. Les services externes ouverts sont régis par leur propre politique de confidentialité. Lorsque vous utilisez TestFlight, Apple nous transmet des rapports de plantage, des statistiques d’utilisation et vos commentaires, qui peuvent être liés à votre identité de testeur. Nous utilisons ces informations pour diagnostiquer les problèmes, améliorer EgoMetra et traiter les commentaires, et les conservons uniquement le temps nécessaire aux tests, à l’assistance ou aux obligations légales. Apple exploite TestFlight selon ses propres conditions et sa politique de confidentialité. Les achats Pro sont traités par Apple via l’App Store. EgoMetra vérifie sur votre appareil les droits d’achat validés par Apple pour débloquer les fonctions et restaurer les achats. L’application ne nous transmet ni vos données de carte bancaire, ni votre mot de passe de compte Apple, ni les données de transactions signées. Apple traite séparément les informations de paiement et d’achat selon ses propres conditions et sa politique de confidentialité."
       },
       {
         "id": "support",
@@ -410,7 +410,7 @@
   },
   "es": {
     "title": "Política de privacidad",
-    "updated": "Actualizado: 22 de octubre de 2026",
+    "updated": "Actualizado: 23 de octubre de 2026",
     "language": "Idioma",
     "operator": "Desarrollador y responsable del tratamiento: Viktor Palej, Lituania. Contacto para privacidad y asistencia:",
     "sections": [
@@ -432,7 +432,7 @@
       {
         "id": "sharing",
         "title": "Transferencias y servicios externos",
-        "text": "La exportación de programas y su uso compartido solo se realizan cuando usted lo decide. La app para iPhone y iPad no contiene SDK de publicidad o análisis de uso y no vende sus datos. Capacitor proporciona el entorno de ejecución de iOS y no nos envía sus grabaciones. Al abrir servicios externos se aplica su política de privacidad. Al usar TestFlight, Apple nos facilita registros de fallos, estadísticas de uso y comentarios que pueden vincularse a su identidad como participante. Usamos estos datos para diagnosticar problemas, mejorar EgoMetra y atender comentarios, y los conservamos solo mientras sean necesarios para las pruebas, la asistencia o las obligaciones legales. Apple presta TestFlight conforme a sus propias condiciones y política de privacidad."
+        "text": "La exportación de programas y su uso compartido solo se realizan cuando usted lo decide. La app para iPhone y iPad no contiene SDK de publicidad o análisis de uso y no vende sus datos. Capacitor proporciona el entorno de ejecución de iOS y no nos envía sus grabaciones. Al abrir servicios externos se aplica su política de privacidad. Al usar TestFlight, Apple nos facilita registros de fallos, estadísticas de uso y comentarios que pueden vincularse a su identidad como participante. Usamos estos datos para diagnosticar problemas, mejorar EgoMetra y atender comentarios, y los conservamos solo mientras sean necesarios para las pruebas, la asistencia o las obligaciones legales. Apple presta TestFlight conforme a sus propias condiciones y política de privacidad. Apple procesa las compras Pro a través del App Store. EgoMetra comprueba en tu dispositivo los derechos de compra verificados por Apple para desbloquear funciones y restaurar compras. La aplicación no nos envía datos de tu tarjeta de pago, la contraseña de tu cuenta de Apple ni datos de transacciones firmadas. Apple procesa por separado la información de pagos y compras según sus propias condiciones y política de privacidad."
       },
       {
         "id": "support",
@@ -468,7 +468,7 @@
   },
   "it": {
     "title": "Informativa sulla privacy",
-    "updated": "Aggiornata: 22 ottobre 2026",
+    "updated": "Aggiornato: 23 ottobre 2026",
     "language": "Lingua",
     "operator": "Sviluppatore e titolare del trattamento: Viktor Palej, Lituania. Contatto per privacy e assistenza:",
     "sections": [
@@ -490,7 +490,7 @@
       {
         "id": "sharing",
         "title": "Trasferimenti e servizi esterni",
-        "text": "L’esportazione e la condivisione dei programmi avvengono solo su sua richiesta. L’app per iPhone e iPad non contiene SDK pubblicitari o di analisi dell’utilizzo e non vende i suoi dati. Capacitor fornisce l’ambiente di esecuzione iOS e non ci invia le sue registrazioni. Ai servizi esterni aperti si applica la rispettiva informativa sulla privacy. Quando utilizza TestFlight, Apple ci fornisce registri degli arresti anomali, statistiche di utilizzo e feedback, che possono essere collegati alla sua identità di tester. Usiamo queste informazioni per individuare problemi, migliorare EgoMetra e gestire il feedback e le conserviamo solo per il tempo necessario ai test, all’assistenza o agli obblighi di legge. Apple gestisce TestFlight secondo le proprie condizioni e la propria informativa sulla privacy."
+        "text": "L’esportazione e la condivisione dei programmi avvengono solo su sua richiesta. L’app per iPhone e iPad non contiene SDK pubblicitari o di analisi dell’utilizzo e non vende i suoi dati. Capacitor fornisce l’ambiente di esecuzione iOS e non ci invia le sue registrazioni. Ai servizi esterni aperti si applica la rispettiva informativa sulla privacy. Quando utilizza TestFlight, Apple ci fornisce registri degli arresti anomali, statistiche di utilizzo e feedback, che possono essere collegati alla sua identità di tester. Usiamo queste informazioni per individuare problemi, migliorare EgoMetra e gestire il feedback e le conserviamo solo per il tempo necessario ai test, all’assistenza o agli obblighi di legge. Apple gestisce TestFlight secondo le proprie condizioni e la propria informativa sulla privacy. Gli acquisti Pro sono elaborati da Apple tramite l’App Store. EgoMetra verifica sul dispositivo i diritti di acquisto confermati da Apple per sbloccare le funzioni e ripristinare gli acquisti. L’app non ci invia i dati della carta di pagamento, la password dell’Apple Account o i dati delle transazioni firmate. Apple elabora separatamente le informazioni di pagamento e acquisto secondo le proprie condizioni e la propria informativa sulla privacy."
       },
       {
         "id": "support",
@@ -526,7 +526,7 @@
   },
   "pl": {
     "title": "Polityka prywatności",
-    "updated": "Aktualizacja: 22 października 2026 r.",
+    "updated": "Aktualizacja: 23 października 2026 r.",
     "language": "Język",
     "operator": "Twórca i administrator danych: Viktor Palej, Litwa. Kontakt w sprawach prywatności i pomocy:",
     "sections": [
@@ -548,7 +548,7 @@
       {
         "id": "sharing",
         "title": "Przesyłanie i usługi zewnętrzne",
-        "text": "Eksport i udostępnianie programów odbywają się tylko na Twoje polecenie. Aplikacja na iPhone’a i iPada nie zawiera SDK reklamowych ani analityki użytkowania i nie sprzedaje Twoich danych. Capacitor zapewnia środowisko wykonawcze iOS i nie wysyła nam Twoich nagrań. Do otwieranych usług zewnętrznych stosuje się ich polityka prywatności. Podczas korzystania z TestFlight Apple przekazuje nam dzienniki awarii, statystyki użytkowania i opinie, które mogą być powiązane z Twoją tożsamością testera. Używamy ich do diagnozowania problemów, ulepszania EgoMetra i obsługi opinii; przechowujemy je tylko tak długo, jak wymaga tego testowanie, pomoc lub obowiązki prawne. Apple świadczy usługę TestFlight zgodnie z własnymi warunkami i polityką prywatności."
+        "text": "Eksport i udostępnianie programów odbywają się tylko na Twoje polecenie. Aplikacja na iPhone’a i iPada nie zawiera SDK reklamowych ani analityki użytkowania i nie sprzedaje Twoich danych. Capacitor zapewnia środowisko wykonawcze iOS i nie wysyła nam Twoich nagrań. Do otwieranych usług zewnętrznych stosuje się ich polityka prywatności. Podczas korzystania z TestFlight Apple przekazuje nam dzienniki awarii, statystyki użytkowania i opinie, które mogą być powiązane z Twoją tożsamością testera. Używamy ich do diagnozowania problemów, ulepszania EgoMetra i obsługi opinii; przechowujemy je tylko tak długo, jak wymaga tego testowanie, pomoc lub obowiązki prawne. Apple świadczy usługę TestFlight zgodnie z własnymi warunkami i polityką prywatności. Zakupy Pro są przetwarzane przez Apple za pośrednictwem App Store. EgoMetra sprawdza na urządzeniu uprawnienia do zakupu potwierdzone przez Apple, aby odblokować funkcje i przywrócić zakupy. Aplikacja nie przekazuje nam danych karty płatniczej, hasła do konta Apple ani podpisanych danych transakcji. Apple osobno przetwarza informacje o płatnościach i zakupach zgodnie z własnymi warunkami i polityką prywatności."
       },
       {
         "id": "support",
