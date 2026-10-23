@@ -1,0 +1,23 @@
+/* Local wordmark font. Keep interface copy and the native launcher artwork
+   independent of the product name. The font contains only EgoMetra glyphs. */
+@font-face{
+  font-family:"EgoMetra Wordmark";
+  src:url("../fonts/museomoderno-500-brand.ttf?v=108") format("truetype");
+  font-style:normal;
+  font-weight:500;
+  font-display:block;
+}
+.brand .brand-wordmark,
+#about-panel .about-card .brand-wordmark,
+.policy-header .brand-wordmark{
+  font-family:"EgoMetra Wordmark",sans-serif;
+  font-style:normal;
+  font-weight:500;
+  font-synthesis:none;
+  font-kerning:normal;
+  letter-spacing:-.025em;
+  line-height:1.25;
+  white-space:nowrap;
+}
+.brand .brand-wordmark{letter-spacing:-.015em}
+#about-panel .about-card .brand-wordmark{font-size:32px}
