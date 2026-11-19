@@ -3,7 +3,7 @@
   const content={
   "en": {
     "title": "Privacy policy",
-    "updated": "Updated: 6 October 2026",
+    "updated": "Updated: 19 November 2026",
     "language": "Language",
     "operator": "Developer and data controller: Viktor Palej, Lithuania. Privacy and support contact:",
     "sections": [
@@ -25,7 +25,7 @@
       {
         "id": "sharing",
         "title": "Transfers and third-party services",
-        "text": "Program export and sharing happen only when you choose them. The current app contains no advertising or analytics SDK and does not sell your data. Capacitor provides the Android runtime without sending recordings to us. Opening a store link or an external service is governed by that service’s privacy policy."
+        "text": "Program export and sharing happen only when you choose them. The current app contains no advertising or analytics SDK and does not sell your data. Capacitor provides the Android runtime without sending recordings to us. Opening a store link or an external service is governed by that service’s privacy policy. If you buy or redeem Android Pro, Google Play handles the transaction under its terms and privacy policy. The app queries and acknowledges the purchase and stores an encrypted, signed purchase receipt on your device to unlock and restore Pro. The app does not receive your card number or send purchase tokens to our own server. Deleting app data removes the local receipt; the Google Play purchase record remains linked to the purchasing account. Use Google Play for payment records, refunds and store account controls. On Apple devices, the App Store handles Pro purchases and redemptions; the app verifies StoreKit transactions to unlock and restore access. To check whether a Pro promotion is active, the paid app downloads public conditions from GitHub Pages over HTTPS. This request does not include account, purchase, storefront or persistent device identifiers, recordings or microphone audio. GitHub may log the connection’s IP address for security under its privacy statement."
       },
       {
         "id": "support",
@@ -61,7 +61,7 @@
   },
   "lt": {
     "title": "Privatumo politika",
-    "updated": "Atnaujinta: 2026 m. spalio 6 d.",
+    "updated": "Atnaujinta: 2026 m. lapkričio 19 d.",
     "language": "Kalba",
     "operator": "Kūrėjas ir duomenų valdytojas: Viktor Palej, Lietuva. Kontaktas privatumo ir pagalbos klausimais:",
     "sections": [
@@ -83,7 +83,7 @@
       {
         "id": "sharing",
         "title": "Perkėlimas ir trečiųjų šalių paslaugos",
-        "text": "Programos eksportuojamos ir bendrinamos tik jums pasirinkus. Dabartinėje programėlėje nėra reklamos ar analitikos SDK; jūsų duomenų neparduodame. „Capacitor“ užtikrina „Android“ veikimą ir nesiunčia mums įrašų. Atvėrus parduotuvės nuorodą ar išorinę paslaugą, taikoma tos paslaugos privatumo politika."
+        "text": "Programos eksportuojamos ir bendrinamos tik jums pasirinkus. Dabartinėje programėlėje nėra reklamos ar analitikos SDK; jūsų duomenų neparduodame. „Capacitor“ užtikrina „Android“ veikimą ir nesiunčia mums įrašų. Atvėrus parduotuvės nuorodą ar išorinę paslaugą, taikoma tos paslaugos privatumo politika. Jei perkate arba kodu aktyvuojate Android Pro, operaciją pagal savo sąlygas ir privatumo politiką tvarko Google Play. Programėlė užklausia ir patvirtina pirkinį bei jūsų įrenginyje saugo šifruotą, pasirašytą pirkimo kvitą, kad atrakintų ir atkurtų Pro. Programėlė negauna jūsų kortelės numerio ir nesiunčia pirkimo žetonų į mūsų nuosavą serverį. Ištrynus programėlės duomenis pašalinamas vietinis kvitas; Google Play pirkimo įrašas lieka susietas su pirkusio naudotojo paskyra. Mokėjimų įrašus, grąžinimus ir parduotuvės paskyrą valdykite per Google Play. Apple įrenginiuose Pro pirkimus ir kodų aktyvavimą tvarko App Store; programėlė patikrina StoreKit operacijas, kad atrakintų ir atkurtų prieigą. Tikrindama, ar galioja Pro akcija, mokama programėlės versija per HTTPS atsisiunčia viešas sąlygas iš GitHub Pages. Šioje užklausoje nesiunčiami paskyros, pirkinio, parduotuvės regiono ar nuolatiniai įrenginio identifikatoriai, įrašai ar mikrofono garsas. GitHub saugumo tikslais gali registruoti ryšio IP adresą pagal savo privatumo pareiškimą."
       },
       {
         "id": "support",
@@ -119,7 +119,7 @@
   },
   "ru": {
     "title": "Политика конфиденциальности",
-    "updated": "Обновлено: 6 октября 2026 года",
+    "updated": "Обновлено: 19 ноября 2026 г.",
     "language": "Язык",
     "operator": "Разработчик и ответственный за обработку данных: Viktor Palej, Литва. Контакт по вопросам конфиденциальности и поддержки:",
     "sections": [
@@ -141,7 +141,7 @@
       {
         "id": "sharing",
         "title": "Передача и сторонние сервисы",
-        "text": "Экспорт и отправка программ выполняются только по вашему выбору. В текущем приложении нет рекламных или аналитических SDK; мы не продаём ваши данные. Capacitor обеспечивает работу Android-версии и не отправляет нам записи. При открытии ссылки на магазин или внешний сервис применяется политика конфиденциальности этого сервиса."
+        "text": "Экспорт и отправка программ выполняются только по вашему выбору. В текущем приложении нет рекламных или аналитических SDK; мы не продаём ваши данные. Capacitor обеспечивает работу Android-версии и не отправляет нам записи. При открытии ссылки на магазин или внешний сервис применяется политика конфиденциальности этого сервиса. Если вы покупаете Android Pro или активируете его кодом, Google Play обрабатывает операцию по своим условиям и политике конфиденциальности. Приложение запрашивает и подтверждает покупку и сохраняет на устройстве зашифрованную подписанную квитанцию для открытия и восстановления Pro. Приложение не получает номер карты и не отправляет токены покупок на наш собственный сервер. Удаление данных приложения удаляет локальную квитанцию; запись о покупке в Google Play остаётся связанной с аккаунтом, совершившим покупку. Платёжные документы, возвраты и настройки аккаунта магазина доступны в Google Play. На устройствах Apple покупки Pro и активацию кодов обрабатывает App Store; приложение проверяет транзакции StoreKit для открытия и восстановления доступа. Для проверки действующей акции Pro платная версия приложения загружает общедоступные условия с GitHub Pages по HTTPS. Запрос не содержит идентификаторов учётной записи, покупки, региона магазина или постоянных идентификаторов устройства, записей или звука микрофона. GitHub может регистрировать IP-адрес соединения в целях безопасности согласно своему заявлению о конфиденциальности."
       },
       {
         "id": "support",
@@ -177,7 +177,7 @@
   },
   "uk": {
     "title": "Політика конфіденційності",
-    "updated": "Оновлено: 6 жовтня 2026 року",
+    "updated": "Оновлено: 19 листопада 2026 р.",
     "language": "Мова",
     "operator": "Розробник і відповідальний за обробку даних: Viktor Palej, Литва. Контакт із питань конфіденційності та підтримки:",
     "sections": [
@@ -199,7 +199,7 @@
       {
         "id": "sharing",
         "title": "Передавання та сторонні сервіси",
-        "text": "Експорт і надсилання програм відбуваються лише за вашим вибором. У поточному застосунку немає рекламних чи аналітичних SDK; ми не продаємо ваші дані. Capacitor забезпечує роботу Android-версії та не надсилає нам записи. Під час відкриття посилання на магазин або зовнішній сервіс застосовується політика конфіденційності цього сервісу."
+        "text": "Експорт і надсилання програм відбуваються лише за вашим вибором. У поточному застосунку немає рекламних чи аналітичних SDK; ми не продаємо ваші дані. Capacitor забезпечує роботу Android-версії та не надсилає нам записи. Під час відкриття посилання на магазин або зовнішній сервіс застосовується політика конфіденційності цього сервісу. Якщо ви купуєте Android Pro або активуєте його кодом, Google Play обробляє операцію за своїми умовами та політикою конфіденційності. Застосунок перевіряє й підтверджує покупку та зберігає на пристрої зашифровану підписану квитанцію для відкриття й відновлення Pro. Застосунок не отримує номера картки й не надсилає токени покупок на наш власний сервер. Видалення даних застосунку видаляє локальну квитанцію; запис про покупку в Google Play залишається пов’язаним з обліковим записом покупця. Платіжні документи, повернення коштів і налаштування облікового запису магазину доступні в Google Play. На пристроях Apple покупки Pro та активацію кодів обробляє App Store; застосунок перевіряє транзакції StoreKit для відкриття та відновлення доступу. Для перевірки чинної акції Pro платна версія застосунку завантажує загальнодоступні умови з GitHub Pages через HTTPS. Запит не містить ідентифікаторів облікового запису, покупки, регіону магазину чи постійних ідентифікаторів пристрою, записів або звуку мікрофона. GitHub може реєструвати IP-адресу з’єднання з метою безпеки відповідно до своєї заяви про конфіденційність."
       },
       {
         "id": "support",
@@ -235,7 +235,7 @@
   },
   "pt": {
     "title": "Política de privacidade",
-    "updated": "Atualizada: 6 de outubro de 2026",
+    "updated": "Atualizado: 19 de novembro de 2026",
     "language": "Idioma",
     "operator": "Programador e responsável pelo tratamento: Viktor Palej, Lituânia. Contacto para privacidade e apoio:",
     "sections": [
@@ -257,7 +257,7 @@
       {
         "id": "sharing",
         "title": "Transferências e serviços externos",
-        "text": "A exportação e partilha de programas só ocorrem por sua escolha. A aplicação atual não contém SDK de publicidade ou análise de utilização e não vende os seus dados. O Capacitor suporta a versão Android sem nos enviar gravações. Ao abrir uma ligação da loja ou um serviço externo, aplica-se a política de privacidade desse serviço."
+        "text": "A exportação e partilha de programas só ocorrem por sua escolha. A aplicação atual não contém SDK de publicidade ou análise de utilização e não vende os seus dados. O Capacitor suporta a versão Android sem nos enviar gravações. Ao abrir uma ligação da loja ou um serviço externo, aplica-se a política de privacidade desse serviço. Se comprar o Android Pro ou o ativar com um código, o Google Play processa a transação segundo os seus termos e política de privacidade. A aplicação consulta e confirma a compra e guarda um recibo assinado e cifrado no dispositivo para desbloquear e restaurar o Pro. A aplicação não recebe o número do cartão nem envia tokens de compra para um servidor próprio nosso. Ao eliminar os dados da aplicação, o recibo local é removido; a compra do Google Play continua associada à conta que a efetuou. Gira comprovativos de pagamento, reembolsos e definições da conta da loja no Google Play. Nos dispositivos Apple, a App Store trata das compras Pro e do resgate de códigos; a aplicação verifica as transações StoreKit para desbloquear e restaurar o acesso. Para verificar se existe uma promoção Pro ativa, a versão paga descarrega condições públicas do GitHub Pages por HTTPS. O pedido não inclui identificadores de conta, compra, região da loja ou identificadores permanentes do dispositivo, gravações nem áudio do microfone. O GitHub pode registar o endereço IP da ligação por motivos de segurança, segundo a sua declaração de privacidade."
       },
       {
         "id": "support",
@@ -293,7 +293,7 @@
   },
   "de": {
     "title": "Datenschutzerklärung",
-    "updated": "Aktualisiert: 6. Oktober 2026",
+    "updated": "Aktualisiert: 19. November 2026",
     "language": "Sprache",
     "operator": "Entwickler und Verantwortlicher: Viktor Palej, Litauen. Kontakt für Datenschutz und Support:",
     "sections": [
@@ -315,7 +315,7 @@
       {
         "id": "sharing",
         "title": "Übertragung und externe Dienste",
-        "text": "Programme werden nur auf Ihre Initiative exportiert oder geteilt. Die aktuelle App enthält keine Werbe- oder Analyse-SDKs und verkauft Ihre Daten nicht. Capacitor stellt die Android-Laufzeit bereit, ohne uns Aufnahmen zu senden. Beim Öffnen eines Store-Links oder eines externen Dienstes gilt dessen Datenschutzerklärung."
+        "text": "Programme werden nur auf Ihre Initiative exportiert oder geteilt. Die aktuelle App enthält keine Werbe- oder Analyse-SDKs und verkauft Ihre Daten nicht. Capacitor stellt die Android-Laufzeit bereit, ohne uns Aufnahmen zu senden. Beim Öffnen eines Store-Links oder eines externen Dienstes gilt dessen Datenschutzerklärung. Wenn Sie Android Pro kaufen oder per Code freischalten, verarbeitet Google Play die Transaktion gemäß seinen Bedingungen und seiner Datenschutzerklärung. Die App fragt den Kauf ab, bestätigt ihn und speichert einen verschlüsselten, signierten Kaufbeleg auf Ihrem Gerät, um Pro freizuschalten und wiederherzustellen. Die App erhält keine Kartennummer und sendet keine Kauftokens an einen eigenen Server von uns. Beim Löschen der App-Daten wird der lokale Beleg entfernt; der Google-Play-Kauf bleibt mit dem kaufenden Konto verknüpft. Zahlungsbelege, Erstattungen und das Store-Konto verwalten Sie über Google Play. Auf Apple-Geräten verarbeitet der App Store Pro-Käufe und Code-Einlösungen; die App prüft StoreKit-Transaktionen, um den Zugang freizuschalten und wiederherzustellen. Zur Prüfung einer aktiven Pro-Aktion lädt die kostenpflichtige App-Version öffentliche Bedingungen über HTTPS von GitHub Pages. Die Anfrage enthält keine Konto-, Kauf-, Store-Regions- oder dauerhaften Gerätekennungen, Aufnahmen oder Mikrofontöne. GitHub kann die IP-Adresse der Verbindung gemäß seiner Datenschutzerklärung zu Sicherheitszwecken protokollieren."
       },
       {
         "id": "support",
@@ -351,7 +351,7 @@
   },
   "fr": {
     "title": "Politique de confidentialité",
-    "updated": "Mise à jour : 6 octobre 2026",
+    "updated": "Mise à jour : 19 novembre 2026",
     "language": "Langue",
     "operator": "Développeur et responsable du traitement : Viktor Palej, Lituanie. Contact pour la confidentialité et l’assistance :",
     "sections": [
@@ -373,7 +373,7 @@
       {
         "id": "sharing",
         "title": "Transferts et services tiers",
-        "text": "L’exportation et le partage de programmes ont lieu uniquement à votre initiative. L’application actuelle ne contient aucun SDK publicitaire ou d’analyse d’utilisation et ne vend pas vos données. Capacitor fournit l’environnement Android sans nous transmettre les enregistrements. L’ouverture d’un lien vers une boutique ou un service externe relève de la politique de confidentialité de ce service."
+        "text": "L’exportation et le partage de programmes ont lieu uniquement à votre initiative. L’application actuelle ne contient aucun SDK publicitaire ou d’analyse d’utilisation et ne vend pas vos données. Capacitor fournit l’environnement Android sans nous transmettre les enregistrements. L’ouverture d’un lien vers une boutique ou un service externe relève de la politique de confidentialité de ce service. Si vous achetez Android Pro ou l’activez avec un code, Google Play traite la transaction selon ses conditions et sa politique de confidentialité. L’application vérifie et confirme l’achat et conserve un reçu signé et chiffré sur votre appareil pour débloquer et restaurer Pro. Elle ne reçoit pas votre numéro de carte et n’envoie pas de jetons d’achat à notre propre serveur. La suppression des données de l’application efface le reçu local ; l’achat Google Play reste associé au compte ayant effectué l’achat. Gérez les justificatifs de paiement, les remboursements et le compte de la boutique dans Google Play. Sur les appareils Apple, l’App Store traite les achats Pro et l’utilisation des codes ; l’application vérifie les transactions StoreKit pour débloquer et restaurer l’accès. Pour vérifier si une offre Pro est active, la version payante télécharge des conditions publiques depuis GitHub Pages via HTTPS. Cette requête ne contient aucun identifiant de compte, d’achat, de région du magasin ou identifiant permanent de l’appareil, ni enregistrement ou son du microphone. GitHub peut journaliser l’adresse IP de la connexion à des fins de sécurité selon sa déclaration de confidentialité."
       },
       {
         "id": "support",
@@ -409,7 +409,7 @@
   },
   "es": {
     "title": "Política de privacidad",
-    "updated": "Actualizada: 6 de octubre de 2026",
+    "updated": "Actualizado: 19 de noviembre de 2026",
     "language": "Idioma",
     "operator": "Desarrollador y responsable del tratamiento: Viktor Palej, Lituania. Contacto para privacidad y asistencia:",
     "sections": [
@@ -431,7 +431,7 @@
       {
         "id": "sharing",
         "title": "Transferencias y servicios externos",
-        "text": "La exportación y el envío de programas se realizan solo cuando usted lo decide. La aplicación actual no incluye SDK de publicidad ni de analítica y no vende sus datos. Capacitor proporciona el entorno Android sin enviarnos grabaciones. Al abrir un enlace a la tienda o un servicio externo, se aplica su política de privacidad."
+        "text": "La exportación y el envío de programas se realizan solo cuando usted lo decide. La aplicación actual no incluye SDK de publicidad ni de analítica y no vende sus datos. Capacitor proporciona el entorno Android sin enviarnos grabaciones. Al abrir un enlace a la tienda o un servicio externo, se aplica su política de privacidad. Si compras Android Pro o lo activas con un código, Google Play procesa la transacción conforme a sus condiciones y política de privacidad. La aplicación consulta y confirma la compra y guarda un recibo firmado y cifrado en tu dispositivo para desbloquear y restaurar Pro. No recibe el número de tu tarjeta ni envía tokens de compra a un servidor propio. Al borrar los datos de la aplicación se elimina el recibo local; la compra de Google Play sigue vinculada a la cuenta que la realizó. Gestiona los comprobantes de pago, reembolsos y controles de la cuenta de la tienda en Google Play. En los dispositivos Apple, App Store gestiona las compras Pro y el canje de códigos; la aplicación verifica las transacciones de StoreKit para desbloquear y restaurar el acceso. Para comprobar si hay una promoción Pro activa, la versión de pago descarga condiciones públicas de GitHub Pages mediante HTTPS. La solicitud no incluye identificadores de cuenta, compra, región de la tienda ni identificadores permanentes del dispositivo, grabaciones o audio del micrófono. GitHub puede registrar la dirección IP de la conexión por seguridad según su declaración de privacidad."
       },
       {
         "id": "support",
@@ -467,7 +467,7 @@
   },
   "it": {
     "title": "Informativa sulla privacy",
-    "updated": "Aggiornata: 6 ottobre 2026",
+    "updated": "Aggiornato: 19 novembre 2026",
     "language": "Lingua",
     "operator": "Sviluppatore e titolare del trattamento: Viktor Palej, Lituania. Contatto per privacy e assistenza:",
     "sections": [
@@ -489,7 +489,7 @@
       {
         "id": "sharing",
         "title": "Trasferimenti e servizi esterni",
-        "text": "L’esportazione e la condivisione dei programmi avvengono solo su tua scelta. L’app attuale non contiene SDK pubblicitari o di analisi dell’utilizzo e non vende i tuoi dati. Capacitor fornisce l’ambiente Android senza inviarci registrazioni. Aprendo un collegamento allo store o a un servizio esterno, si applica l’informativa di quel servizio."
+        "text": "L’esportazione e la condivisione dei programmi avvengono solo su tua scelta. L’app attuale non contiene SDK pubblicitari o di analisi dell’utilizzo e non vende i tuoi dati. Capacitor fornisce l’ambiente Android senza inviarci registrazioni. Aprendo un collegamento allo store o a un servizio esterno, si applica l’informativa di quel servizio. Se acquisti Android Pro o lo attivi con un codice, Google Play gestisce la transazione secondo i propri termini e la propria informativa sulla privacy. L’app verifica e conferma l’acquisto e conserva sul dispositivo una ricevuta firmata e cifrata per sbloccare e ripristinare Pro. L’app non riceve il numero della carta né invia token di acquisto a un nostro server. Eliminando i dati dell’app si rimuove la ricevuta locale; l’acquisto Google Play rimane associato all’account che lo ha effettuato. Gestisci documenti di pagamento, rimborsi e impostazioni dell’account dello store tramite Google Play. Sui dispositivi Apple, l’App Store gestisce gli acquisti Pro e l’utilizzo dei codici; l’app verifica le transazioni StoreKit per sbloccare e ripristinare l’accesso. Per verificare se una promozione Pro è attiva, la versione a pagamento scarica condizioni pubbliche da GitHub Pages tramite HTTPS. La richiesta non include identificativi di account, acquisto, regione dello store o identificativi permanenti del dispositivo, registrazioni o audio del microfono. GitHub può registrare l’indirizzo IP della connessione per motivi di sicurezza secondo la propria informativa sulla privacy."
       },
       {
         "id": "support",
@@ -525,7 +525,7 @@
   },
   "pl": {
     "title": "Polityka prywatności",
-    "updated": "Aktualizacja: 6 października 2026 r.",
+    "updated": "Aktualizacja: 19 listopada 2026 r.",
     "language": "Język",
     "operator": "Twórca i administrator danych: Viktor Palej, Litwa. Kontakt w sprawach prywatności i pomocy:",
     "sections": [
@@ -547,7 +547,7 @@
       {
         "id": "sharing",
         "title": "Przesyłanie i usługi zewnętrzne",
-        "text": "Eksport i udostępnianie programów odbywają się wyłącznie z Twojej inicjatywy. Obecna aplikacja nie zawiera SDK reklamowych ani analitycznych i nie sprzedaje Twoich danych. Capacitor zapewnia środowisko Android bez wysyłania nam nagrań. Po otwarciu linku do sklepu lub usługi zewnętrznej obowiązuje jej polityka prywatności."
+        "text": "Eksport i udostępnianie programów odbywają się wyłącznie z Twojej inicjatywy. Obecna aplikacja nie zawiera SDK reklamowych ani analitycznych i nie sprzedaje Twoich danych. Capacitor zapewnia środowisko Android bez wysyłania nam nagrań. Po otwarciu linku do sklepu lub usługi zewnętrznej obowiązuje jej polityka prywatności. Jeśli kupisz Android Pro lub aktywujesz go kodem, Google Play obsłuży transakcję zgodnie ze swoimi warunkami i polityką prywatności. Aplikacja sprawdza i potwierdza zakup oraz zapisuje na urządzeniu zaszyfrowany, podpisany dowód zakupu, aby odblokować i przywrócić Pro. Aplikacja nie otrzymuje numeru karty ani nie wysyła tokenów zakupu na nasz własny serwer. Usunięcie danych aplikacji usuwa lokalny dowód; zakup Google Play pozostaje powiązany z kontem, które go dokonało. Dokumenty płatności, zwroty i ustawienia konta sklepu obsługuj w Google Play. Na urządzeniach Apple zakupy Pro i realizację kodów obsługuje App Store; aplikacja weryfikuje transakcje StoreKit, aby odblokować i przywrócić dostęp. Aby sprawdzić, czy promocja Pro jest aktywna, płatna wersja pobiera publiczne warunki z GitHub Pages przez HTTPS. Żądanie nie zawiera identyfikatorów konta, zakupu, regionu sklepu ani stałych identyfikatorów urządzenia, nagrań lub dźwięku z mikrofonu. GitHub może rejestrować adres IP połączenia ze względów bezpieczeństwa zgodnie z własnym oświadczeniem o prywatności."
       },
       {
         "id": "support",
@@ -584,7 +584,7 @@
 };
 
   const email='egometra.support@gmail.com';
-  const names={lt:'Lietuvių',en:'English',ru:'Русский',uk:'Українська',pt:'Português',de:'Deutsch',fr:'Français',es:'Español',it:'Italiano',pl:'Polski'};
+  const names={de:'Deutsch',en:'English',es:'Español',fr:'Français',it:'Italiano',lt:'Lietuvių',pl:'Polski',pt:'Português',ru:'Русский',uk:'Українська'};
   function resolveLanguage(requested,device){const code=(requested||device||'en').toLowerCase().split(/[-_]/)[0];return Object.prototype.hasOwnProperty.call(content,code)?code:'en'}
   function render(language,container,showTitle=true){
     if(!container)return;

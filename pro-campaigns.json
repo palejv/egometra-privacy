@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "productID": "com.egometra.app.pro",
+  "platforms": {
+    "ios": { "enabled": false },
+    "android": { "enabled": false }
+  }
+}
