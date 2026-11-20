@@ -2,7 +2,1595 @@
   "schemaVersion": 1,
   "productID": "com.egometra.app.pro",
   "platforms": {
-    "ios": { "enabled": false },
-    "android": { "enabled": false }
+    "ios": {
+      "enabled": true,
+      "id": "egometra-pro-ios-november-2026",
+      "minimumAppVersion": "1.1.10",
+      "scheduleByStorefront": true,
+      "referenceStorefront": "LTU",
+      "startsAt": "2026-11-21T00:00:00Z",
+      "endsAt": "2026-12-05T00:00:00Z",
+      "releaseVerifiedAt": "2026-11-20T07:20:37Z",
+      "prices": {
+        "AFG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "AGO": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "AIA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "ALB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ARE": {
+          "currency": "AED",
+          "regularAmount": "14.99",
+          "saleAmount": "12.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "ARG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ARM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "ATG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "AUS": {
+          "currency": "AUD",
+          "regularAmount": "5.99",
+          "saleAmount": "4.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T18:00:00Z",
+          "endsAt": "2026-12-04T18:00:00Z"
+        },
+        "AUT": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "AZE": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "BEL": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BEN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BFA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BGR": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BHR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "BHS": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "BIH": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BLR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "BLZ": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "BMU": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "BOL": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BRA": {
+          "currency": "BRL",
+          "regularAmount": "24.9",
+          "saleAmount": "19.9",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "BRB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "BRN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "BTN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "BWA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CAN": {
+          "currency": "CAD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "CHE": {
+          "currency": "CHF",
+          "regularAmount": "3.0",
+          "saleAmount": "2.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CHL": {
+          "currency": "CLP",
+          "regularAmount": "4990",
+          "saleAmount": "2990",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CHN": {
+          "currency": "CNY",
+          "regularAmount": "28.0",
+          "saleAmount": "22.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "CIV": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CMR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "COD": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "COG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "COL": {
+          "currency": "COP",
+          "regularAmount": "19900.0",
+          "saleAmount": "9900.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CPV": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CRI": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CYM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "CYP": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "CZE": {
+          "currency": "CZK",
+          "regularAmount": "99.0",
+          "saleAmount": "79.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "DEU": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "DMA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "DNK": {
+          "currency": "DKK",
+          "regularAmount": "39.0",
+          "saleAmount": "29.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "DOM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "DZA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ECU": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "EGY": {
+          "currency": "EGP",
+          "regularAmount": "199.99",
+          "saleAmount": "149.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "ESP": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "EST": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "FIN": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "FJI": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "FRA": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "FSM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "GAB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GBR": {
+          "currency": "GBP",
+          "regularAmount": "3.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GEO": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "GHA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GMB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GNB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GRC": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GRD": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "GTM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "GUY": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "HKG": {
+          "currency": "HKD",
+          "regularAmount": "32.0",
+          "saleAmount": "22.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "HND": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "HRV": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "HUN": {
+          "currency": "HUF",
+          "regularAmount": "1790",
+          "saleAmount": "1490",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "IDN": {
+          "currency": "IDR",
+          "regularAmount": "79000",
+          "saleAmount": "59000",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "IND": {
+          "currency": "INR",
+          "regularAmount": "399.0",
+          "saleAmount": "299.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "IRL": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "IRQ": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ISL": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ISR": {
+          "currency": "ILS",
+          "regularAmount": "12.9",
+          "saleAmount": "9.9",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ITA": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "JAM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "JOR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "JPN": {
+          "currency": "JPY",
+          "regularAmount": "600",
+          "saleAmount": "500",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "KAZ": {
+          "currency": "KZT",
+          "regularAmount": "2490.0",
+          "saleAmount": "1790.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "KEN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "KGZ": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "KHM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "KNA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "KOR": {
+          "currency": "KRW",
+          "regularAmount": "6600",
+          "saleAmount": "4400",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "KWT": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "LAO": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "LBN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "LBR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "LBY": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "LCA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "LKA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "LTU": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "LUX": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "LVA": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MAC": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "MAR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MDA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MDG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MDV": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "MEX": {
+          "currency": "MXN",
+          "regularAmount": "89.0",
+          "saleAmount": "69.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "MKD": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MLI": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MLT": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MMR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "MNE": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MNG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "MOZ": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MRT": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MSR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "MUS": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "MWI": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "MYS": {
+          "currency": "MYR",
+          "regularAmount": "19.9",
+          "saleAmount": "14.9",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "NAM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NER": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NGA": {
+          "currency": "NGN",
+          "regularAmount": "6900.0",
+          "saleAmount": "4900.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NIC": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NLD": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NOR": {
+          "currency": "NOK",
+          "regularAmount": "49.0",
+          "saleAmount": "39.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "NPL": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "NRU": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "NZL": {
+          "currency": "NZD",
+          "regularAmount": "6.99",
+          "saleAmount": "4.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "OMN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "PAK": {
+          "currency": "PKR",
+          "regularAmount": "1100.0",
+          "saleAmount": "900.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "PAN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "PER": {
+          "currency": "PEN",
+          "regularAmount": "17.9",
+          "saleAmount": "12.9",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "PHL": {
+          "currency": "PHP",
+          "regularAmount": "249.0",
+          "saleAmount": "199.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "PLW": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "PNG": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "POL": {
+          "currency": "PLN",
+          "regularAmount": "19.99",
+          "saleAmount": "14.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "PRT": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "PRY": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "QAT": {
+          "currency": "QAR",
+          "regularAmount": "14.99",
+          "saleAmount": "9.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "ROU": {
+          "currency": "RON",
+          "regularAmount": "19.99",
+          "saleAmount": "14.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "RUS": {
+          "currency": "RUB",
+          "regularAmount": "349.0",
+          "saleAmount": "249.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "RWA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SAU": {
+          "currency": "SAR",
+          "regularAmount": "17.99",
+          "saleAmount": "12.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "SEN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SGP": {
+          "currency": "SGD",
+          "regularAmount": "5.98",
+          "saleAmount": "3.98",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "SLB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "SLE": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SLV": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SRB": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "STP": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SUR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SVK": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SVN": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SWE": {
+          "currency": "SEK",
+          "regularAmount": "49.0",
+          "saleAmount": "39.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SWZ": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "SYC": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "TCA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "TCD": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "THA": {
+          "currency": "THB",
+          "regularAmount": "149.0",
+          "saleAmount": "99.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "TJK": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "TKM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "TON": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "TTO": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "TUN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "TUR": {
+          "currency": "TRY",
+          "regularAmount": "199.99",
+          "saleAmount": "149.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "TWN": {
+          "currency": "TWD",
+          "regularAmount": "120",
+          "saleAmount": "90",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "TZA": {
+          "currency": "TZS",
+          "regularAmount": "11900.0",
+          "saleAmount": "9900.0",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "UGA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "UKR": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "URY": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "USA": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "UZB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "VCT": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "VEN": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "VGB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T04:00:00Z",
+          "endsAt": "2026-12-05T04:00:00Z"
+        },
+        "VNM": {
+          "currency": "VND",
+          "regularAmount": "119000",
+          "saleAmount": "99000",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "VUT": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T15:00:00Z",
+          "endsAt": "2026-12-04T15:00:00Z"
+        },
+        "XKS": {
+          "currency": "EUR",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "YEM": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "2.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-20T19:00:00Z",
+          "endsAt": "2026-12-04T19:00:00Z"
+        },
+        "ZAF": {
+          "currency": "ZAR",
+          "regularAmount": "79.99",
+          "saleAmount": "59.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ZMB": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        },
+        "ZWE": {
+          "currency": "USD",
+          "regularAmount": "4.99",
+          "saleAmount": "3.99",
+          "source": "store-export",
+          "verifiedAt": "2026-11-20T07:38:00Z",
+          "startsAt": "2026-11-21T00:00:00Z",
+          "endsAt": "2026-12-05T00:00:00Z"
+        }
+      }
+    },
+    "android": {
+      "enabled": false
+    }
   }
 }
